@@ -46,7 +46,7 @@ github.com/bgentry/speakeasy
 github.com/blang/semver
 # github.com/davecgh/go-spew v1.1.1
 github.com/davecgh/go-spew/spew
-# github.com/dnsimple/dnsimple-go v0.0.0-20170221092147-84018270a30e
+# github.com/dnsimple/dnsimple-go v0.23.0
 github.com/dnsimple/dnsimple-go/dnsimple
 # github.com/go-ini/ini v1.25.4
 github.com/go-ini/ini
